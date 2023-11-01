@@ -31,7 +31,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # A name for your Music bot,𝐀𝐥𝐥 𝐃𝐞𝐬𝐢𝐠𝐧 𝐍𝐚𝐦𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐞𝐝.
-MUSIC_BOT_NAME = "𝄟❥AUJLA🍷𝗠𝗨𝗦𝗜𝗖⏤͟͟͞❥͜͡𝄟⃟"
+MUSIC_BOT_NAME = "⎯꯭̽🇨🇦꯭꯭ ⃪Вα꯭∂ ꯭мυη∂α_꯭آآ꯭꯭꯭꯭⎯꯭ ꯭̽🌸"
 
 # Your User ID.
 OWNER_ID = list(
@@ -56,7 +56,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/PB65-Aujla/VIP-MUSIC",
+    "https://github.com/badmunda011/Musicedit",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -64,8 +64,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/World_Mania")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/its_Punjabi_Chat_Group")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/ABT_BAD")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/THE_DRAMA_CLUB_01")
 SUPPORT_HEHE = SUPPORT_GROUP
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -96,7 +96,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "3"))
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://t.me/PB65_Aujla")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/badmunda011/Musicedit")
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "19609edb1b9f4ed7be0c8c1342039362")
@@ -170,12 +170,12 @@ START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/a050603e5cb71f0
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/a050603e5cb71f03a24ef.jpg",
+    "https://graph.org/file/40ce67d14a3f5a7136090.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://telegra.ph/file/a050603e5cb71f03a24ef.jpg",
+    "https://graph.org/file/40ce67d14a3f5a7136090.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
@@ -205,7 +205,7 @@ STREAM_IMG_URL = getenv(
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "https://telegra.ph/file/a050603e5cb71f03a24ef.jpg",
+    "https://graph.org/file/40ce67d14a3f5a7136090.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(

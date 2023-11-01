@@ -105,7 +105,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 TEJINDER AUJLA🌹", url=f"https://t.me/PB65_Aujla")
+                        "🥀 ⎯꯭̽🇨🇦꯭꯭ ⃪Вα꯭∂ ꯭мυη∂α_꯭آآ꯭꯭꯭꯭⎯꯭ ꯭̽🌸 🥀", url=f"https://t.me/II_BAD_MUNDA_II")
                 ]
             ]
         ),
@@ -128,7 +128,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/World_Mania")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/BAD_MUNDA_0")
                 ]
             ]
         ),
@@ -146,7 +146,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/PunjabiChat_Group")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/THE_DRAMA_CLUB_01")
                 ]
             ]
         ),
@@ -164,7 +164,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/PB65_Aujla")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/BAD_MUNDA_0")
                 ]
             ]
         ),

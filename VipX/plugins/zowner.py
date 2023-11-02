@@ -51,7 +51,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 TEJINDER AUJLA 🌹", url=f"https://t.me/PB65_Aujla")
+                        "🥀 ⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂ ꯭м꯭υ꯭η∂꯭α_꯭آآ⎯꯭ ꯭̽🌸 🥀", url=f"https://t.me/II_BAD_MUNDA_II")
                 ]
             ]
         ),
@@ -105,7 +105,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 TEJINDER AUJLA🌹", url=f"https://t.me/PB65_Aujla")
+                        "🥀 ⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂ ꯭м꯭υ꯭η∂꯭α_꯭آآ⎯꯭ ꯭̽🌸 🥀", url=f"https://t.me/II_BAD_MUNDA_II")
                 ]
             ]
         ),
@@ -122,13 +122,13 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/71008a078f26dedfc62c5.jpg",
+        photo=f"https://te.legra.ph/file/e25a563619c653328830d.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/World_Mania")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/BAD_MUNDA_0")
                 ]
             ]
         ),
@@ -140,13 +140,13 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/71008a078f26dedfc62c5.jpg",
+        photo=f"https://te.legra.ph/file/e25a563619c653328830d.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/PunjabiChat_Group")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/THE_DRAMA_CLUB_01")
                 ]
             ]
         ),
@@ -158,13 +158,13 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/71008a078f26dedfc62c5.jpg",
+        photo=f"https://te.legra.ph/file/e25a563619c653328830d.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/PB65_Aujla")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/II_BAD_MUNDA_II")
                 ]
             ]
         ),

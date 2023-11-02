@@ -125,7 +125,8 @@ async def gen_thumb(videoid, chat_id):
         try:
             draw.text(
                 (25, 0.1),
-                f"AUJLA  MUSIC",
+                f"⎯꯭̽🇨🇦꯭꯭ ⃪Вα꯭∂ ꯭мυη∂α_꯭آآ꯭꯭꯭꯭⎯꯭ ꯭̽🌸
+",
                 fill="white",
                 stroke_width=4,
                 stroke_fill="black",
@@ -265,7 +266,8 @@ async def gen_qthumb(videoid, chat_id):
         try:
             draw.text(
                 (25, 0.1),
-                "AUJLA  MUSIC",
+                "⎯꯭̽🇨🇦꯭꯭ ⃪Вα꯭∂ ꯭мυη∂α_꯭آآ꯭꯭꯭꯭⎯꯭ ꯭̽🌸
+",
                 fill="white",
                 stroke_width=5,
                 stroke_fill="black",

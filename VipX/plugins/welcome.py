@@ -44,4 +44,5 @@ async def join_watcher(_, message):
             await app.send_photo(message.chat.id, photo=random.choice(photo), caption=msg, reply_markup=InlineKeyboardMarkup([
             [InlineKeyboardButton(f"🥳ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴄʜᴀᴛ🥳", url=f"https://t.me/{app.username}?startgroup=true")]
          ]))
-          
+           await app.send_photo(message.chat.id, photo=random.choice(photo), caption=msg, reply_markup=[InlineKeyboardButton(f"🥳𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 🥳", url=f"https://t.me/{@II_BAD_MUNDA_II}?startgroup=true")]
+         ]))

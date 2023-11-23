@@ -6,9 +6,9 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from VipX import app  
 
 photo = [
-    "https://te.legra.ph/file/eb5b17bf2fdc09f73f6b2.jpg",
-    "https://te.legra.ph/file/d4bf46af570e1d72eabd5.jpg",
-    "https://graph.org/file/40ce67d14a3f5a7136090.jpg",
+    "https://te.legra.ph/file/462b44ea9dd0cb8d9165d.jpg",
+    "https://te.legra.ph/file/e49e633df5f6dbc479758.jpg",
+    "https://te.legra.ph/file/ed999f529f5ab1de492c4.jpg",
 ]
 
 
